@@ -1,0 +1,21 @@
+body {
+    background-color: #f5f5dd;
+}
+div {
+    margin: auto;
+    height: 10em;
+    width: 10em;
+    margin-top: 2em;
+}
+#div1 {
+    background-color: hsl(0, 0%, 0%);
+}
+#div2 {
+    background-color: hsl(0, 0%, 0%, 0.750);
+}
+#div3 {
+    background-color: hsla(0, 0%, 0%, 0.500);
+}
+#div4 {
+    background-color: hsl(0, 0%, 0%, 0.250);
+}
